@@ -28,24 +28,22 @@ Used PowerShell script to create over 1000 users on the network:  <br/>
 <img src="https://i.imgur.com/qe6iF3P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Setting up Remote Access Server (RAS) features to support Network Address Translation (NAT): <br/>
+<img src="https://i.imgur.com/yLdFdWp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Implementing and maintaining DNS and DHCP:  <br/>
+<img src="https://i.imgur.com/saXgCv1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Connecting Windows client to Domain:  <br/>
+<img src="https://i.imgur.com/V53vZbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating Group Policy Object and linking it to users on the network:  <br/>
+<img src="https://i.imgur.com/AOm5MxG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
